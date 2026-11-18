@@ -1,4 +1,4 @@
-### Luminaria escolar con detección de movimiento
+# Luminaria escolar con detección de movimiento
 Detecta movimiento en una escena y confirma un evento solo si el movimiento se mantiene durante el tiempo configurado.
 
 Este cuaderno reúne la lógica de detección de movimiento de mi proyecto de titulación. El código usa Python y OpenCV para comparar cada fotograma con un fondo de referencia e identificar las zonas donde hubo cambios.
